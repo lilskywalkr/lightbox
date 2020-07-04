@@ -1,0 +1,19 @@
+{
+  "name": "lightboxify",
+  "version": "1.0.0",
+  "description": "displays images by filling the screen and dimming the rest of the web page",
+  "main": "lightboxify",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lightbox",
+    "image"
+  ],
+  "author": "Ronald Frangulyan",
+  "license": "GNU GPL V3"
+}

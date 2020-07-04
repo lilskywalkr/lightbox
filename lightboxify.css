@@ -1,0 +1,27 @@
+img {
+  width: 100%;
+  height: 100%;
+}
+
+
+.lightbox-container {
+  transition: 0.5s ease-in-out;
+}
+
+.lightbox {
+  width: 1200px;
+  height: 750px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.5s ease-in-out;
+}
+
+
+.lightbox-image {
+  width: 400px;
+  height: 250px;
+  border: 1px #141618 solid;
+  cursor: pointer;
+}
